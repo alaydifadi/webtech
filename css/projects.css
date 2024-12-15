@@ -1,0 +1,27 @@
+.project-details {
+    margin: 30px auto;
+}
+.project-slider {
+    max-height: 300px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+.project-slider img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+.dropdown-content {
+    margin-top: 10px;
+}
+.server-detail-text {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.return-btn {
+    display: inline-block;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: var(--primary-color, #1E90FF);
+}
